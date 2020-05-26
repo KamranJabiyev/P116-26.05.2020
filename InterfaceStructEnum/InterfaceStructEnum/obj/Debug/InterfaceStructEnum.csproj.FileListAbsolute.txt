@@ -1,0 +1,6 @@
+C:\Users\Kamran\source\repos\InterfaceStructEnum\InterfaceStructEnum\bin\Debug\InterfaceStructEnum.exe.config
+C:\Users\Kamran\source\repos\InterfaceStructEnum\InterfaceStructEnum\bin\Debug\InterfaceStructEnum.exe
+C:\Users\Kamran\source\repos\InterfaceStructEnum\InterfaceStructEnum\bin\Debug\InterfaceStructEnum.pdb
+C:\Users\Kamran\source\repos\InterfaceStructEnum\InterfaceStructEnum\obj\Debug\InterfaceStructEnum.csprojAssemblyReference.cache
+C:\Users\Kamran\source\repos\InterfaceStructEnum\InterfaceStructEnum\obj\Debug\InterfaceStructEnum.exe
+C:\Users\Kamran\source\repos\InterfaceStructEnum\InterfaceStructEnum\obj\Debug\InterfaceStructEnum.pdb
